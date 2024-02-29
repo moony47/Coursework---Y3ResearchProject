@@ -1,2 +1,6 @@
 ﻿  Y3Project_KonigGraphsWithUniqueVertexCover.cpp
+C:\Users\sfmoo\OneDrive\Documents\Work\a_CurrentTerm\DMProject\Y3Project_KonigGraphsWithUniqueVertexCover\Y3Project_KonigGraphsWithUniqueVertexCover.cpp(229,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sfmoo\OneDrive\Documents\Work\a_CurrentTerm\DMProject\Y3Project_KonigGraphsWithUniqueVertexCover\Y3Project_KonigGraphsWithUniqueVertexCover.cpp(243,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sfmoo\OneDrive\Documents\Work\a_CurrentTerm\DMProject\Y3Project_KonigGraphsWithUniqueVertexCover\Y3Project_KonigGraphsWithUniqueVertexCover.cpp(401,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\sfmoo\OneDrive\Documents\Work\a_CurrentTerm\DMProject\Y3Project_KonigGraphsWithUniqueVertexCover\Y3Project_KonigGraphsWithUniqueVertexCover.cpp(436,20): warning C4018: '>': signed/unsigned mismatch
   Y3Project_KonigGraphsWithUniqueVertexCover.vcxproj -> C:\Users\sfmoo\OneDrive\Documents\Work\a_CurrentTerm\DMProject\Y3Project_KonigGraphsWithUniqueVertexCover\Debug\Y3Project_KonigGraphsWithUniqueVertexCover.exe

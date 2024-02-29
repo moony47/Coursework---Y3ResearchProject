@@ -1,0 +1,11 @@
+﻿  Y3Project_KonigGraphsWithUniqueVertexCover.cpp
+C:\Users\sfmoo\OneDrive\Documents\OneDriveDocuments\Work\m_Year3Term2\DMProject\Y3Project_KonigGraphsWithUniqueVertexCover\Y3Project_KonigGraphsWithUniqueVertexCover.cpp(225,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sfmoo\OneDrive\Documents\OneDriveDocuments\Work\m_Year3Term2\DMProject\Y3Project_KonigGraphsWithUniqueVertexCover\Y3Project_KonigGraphsWithUniqueVertexCover.cpp(239,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sfmoo\OneDrive\Documents\OneDriveDocuments\Work\m_Year3Term2\DMProject\Y3Project_KonigGraphsWithUniqueVertexCover\Y3Project_KonigGraphsWithUniqueVertexCover.cpp(386,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\sfmoo\OneDrive\Documents\OneDriveDocuments\Work\m_Year3Term2\DMProject\Y3Project_KonigGraphsWithUniqueVertexCover\Y3Project_KonigGraphsWithUniqueVertexCover.cpp(421,20): warning C4018: '>': signed/unsigned mismatch
+  Generating code
+  1 of 536 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Y3Project_KonigGraphsWithUniqueVertexCover.vcxproj -> C:\Users\sfmoo\OneDrive\Documents\OneDriveDocuments\Work\m_Year3Term2\DMProject\Y3Project_KonigGraphsWithUniqueVertexCover\Release\Y3Project_KonigGraphsWithUniqueVertexCover.exe
